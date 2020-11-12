@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 456,
+      "date": 132491598601427759
+    },
+    {
+      "path": "scenery/AIRPORT.BGL",
+      "size": 1948,
+      "date": 132491589146438121
+    },
+    {
+      "path": "scenery/polygon.bgl",
+      "size": 47611,
+      "date": 132491602255360849
+    }
+  ]
+}
