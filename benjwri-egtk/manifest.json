@@ -4,12 +4,12 @@
   "title": "Oxford Airport - EGTK",
   "manufacturer": "",
   "creator": "Benjwri",
-  "package_version": "1.0.1",
+  "package_version": "1.0.2",
   "minimum_game_version": "1.10.8",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 1.0.1 RELEASED AUGUST 28, 2020\\n- Fixed mini cliff on taxiway B\n- Added ATC Tower",
-      "OlderHistory": "VERSION 1.0.0 RELEASED AUGUST 28, 2020\\nInital release of airport"
+      "LastUpdate": "",
+      "OlderHistory": "VERSION 1.0.0 RELEASED AUGUST 28, 2020\\nInital release of airport\\nVERSION 1.0.1 RELEASED AUGUST 28, 2020\\n- Fixed mini cliff on taxiway B\n- Added ATC Tower"
     }
   }
 }
